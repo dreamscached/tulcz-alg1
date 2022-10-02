@@ -1,7 +1,7 @@
 # TULCZ ALG1
 
-Tento repositář obsahuje mnou odevzdané úlohy z předmětu algoritmizace a
-programovaní během studia na TUL FM.
+Tento repozitář obsahuje mnou odevzdané úkoly z předmětu 
+algoritmizace a programovaní během studia na TUL FM.
 
 ## Odevzdané
 
