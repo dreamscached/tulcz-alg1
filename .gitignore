@@ -1,2 +1,3 @@
-# Ignorovat .vscode
+# Ignorovat .vscode a .idea
 /.vscode
+/.idea
