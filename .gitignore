@@ -1,4 +1,5 @@
-# Ignorovat .vscode a .idea
+# Ignorovat slozky IDE apod
 /.vscode
 /.idea
 /*.iml
+/out
